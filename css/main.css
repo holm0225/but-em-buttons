@@ -9,3 +9,18 @@ body {
   background-image: url("../images/starfield.png");
 
 }
+
+.content {
+  color: #fff;
+  padding-top: 15em;
+  text-shadow: 1px 1px 10px rgba(255, 255, 255, .7);
+}
+
+.btn-ghost {
+  position: relative;
+  top: 0;
+  color: #90ccc3;
+  border: solid #b4fff4 1px;
+  border-radius: 8px;
+  transition: all 200ms ease;
+}
